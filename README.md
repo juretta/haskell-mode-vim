@@ -22,8 +22,3 @@ Master [git repository](http://github.com/haskell/haskell-mode-vim):
 
 * `git clone git://github.com/haskell/haskell-mode-vim.git`
 
-# Authors
-
-This library is written and maintained by David Terei,
-<davidterei@gmail.com>.
-
